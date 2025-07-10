@@ -1,9 +1,7 @@
 package handlers
 
 import (
-    "encoding/json"
     "fmt"
-    "net/http"
     "time"
 
     "github.com/aws/aws-sdk-go/aws"
